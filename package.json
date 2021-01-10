@@ -1,0 +1,22 @@
+{
+  "name": "react-awesome-datepicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/react-awesome-datepicker.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "author": "Peter Absolon <peterabsolon@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.14.2",
+    "rollup": "^2.36.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-typescript2": "^0.29.0",
+    "typescript": "^4.1.3",
+    "react": "^16.14.0"
+  },
+  "peerDependencies": {
+    "react": "^16.14.0"
+  }
+}
