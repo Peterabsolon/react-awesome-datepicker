@@ -1,6 +1,6 @@
 {
   "name": "react-awesome-datepicker",
-  "version": "0.0.1",
+  "version": "0.0.1-rc0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -17,6 +17,6 @@
     "react": "^16.14.0"
   },
   "peerDependencies": {
-    "react": "^16.14.0"
+    "react": "16.x.x"
   }
 }
