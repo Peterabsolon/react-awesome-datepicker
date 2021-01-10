@@ -6,7 +6,7 @@ export default {
 
   output: [
     {
-      file: './dist/react-awesome-datepicker.js',
+      file: './dist/index.js',
       format: 'commonjs',
       exports: 'named',
     },

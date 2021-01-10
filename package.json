@@ -2,7 +2,7 @@
   "name": "react-awesome-datepicker",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/react-awesome-datepicker.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c rollup.config.js"
   },
